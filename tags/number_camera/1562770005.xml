@@ -1,0 +1,14 @@
+<annotation>
+  <folder>number_camera</folder>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <path>/home/pi/number_project/number_camera/1562770005.jpg</path>
+  <size>
+    <height>300</height>
+    <depth>3</depth>
+    <width>300</width>
+  </size>
+  <filename>1562770005.jpg</filename>
+  <segmented>0</segmented>
+</annotation>

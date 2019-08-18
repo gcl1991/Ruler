@@ -1,0 +1,26 @@
+<annotation>
+  <segmented>0</segmented>
+  <path>/home/pi/number_project/number_camera/1562851421.jpg</path>
+  <object>
+    <name>finger</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>124</xmin>
+      <ymin>125</ymin>
+      <xmax>145</xmax>
+      <ymax>145</ymax>
+    </bndbox>
+  </object>
+  <filename>1562851421.jpg</filename>
+  <folder>number_camera</folder>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <depth>3</depth>
+    <width>300</width>
+    <height>300</height>
+  </size>
+</annotation>
